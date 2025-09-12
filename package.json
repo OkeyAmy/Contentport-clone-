@@ -74,7 +74,7 @@
     "drizzle-zod": "^0.8.2",
     "framer-motion": "^12.7.3",
     "geist": "^1.3.1",
-    "hono": "^4.7.0",
+    "hono": "^4.9.7",
     "jstack": "^1.1.1",
     "lexical": "^0.30.0",
     "lodash.debounce": "^4.0.8",
